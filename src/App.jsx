@@ -2,7 +2,9 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 
 import "./App.css";
 
-const API = "https://placehub-backend-qy59.onrender.com/api";
+
+const API = "https://placehub-backend-qy59.onrender.com";
+
 
 const initialJobs = [
 
